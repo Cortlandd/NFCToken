@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NFCTokens</string>
+    <string name="title_activity_detials">DetialsActivity</string>
+</resources>
